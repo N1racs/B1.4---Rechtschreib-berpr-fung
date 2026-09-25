@@ -1,0 +1,7 @@
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\bin\Debug\B1.4 - Rechtschreibüberprüfung.exe.config
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\bin\Debug\B1.4 - Rechtschreibüberprüfung.exe
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\bin\Debug\B1.4 - Rechtschreibüberprüfung.pdb
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\obj\Debug\B1.4 - Rechtschreibüberprüfung.csproj.AssemblyReference.cache
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\obj\Debug\B1.4 - Rechtschreibüberprüfung.csproj.CoreCompileInputs.cache
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\obj\Debug\B1.4 - Rechtschreibüberprüfung.exe
+C:\Users\lelli\Desktop\SAE Projects\B1.4 - Rechtschreibüberprüfung\B1.4 - Rechtschreibüberprüfung\obj\Debug\B1.4 - Rechtschreibüberprüfung.pdb
